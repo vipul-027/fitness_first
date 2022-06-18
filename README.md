@@ -11,5 +11,4 @@ During this Quarantine  stay safe and connected  with my web.
 6. Live   corona traking map 
 
 ![image](images/homepage.png)
-![image](images/coronatrack.png)
 ![image](images/chat.png)
