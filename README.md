@@ -1,6 +1,6 @@
 # Fitness-First
-i am excited to announce the launch of my new project.
-During this covis situation  stay safe.
+i am excited to announce that launch of my new project.
+During this covid situation  stay safe.
 
 # Key Features  of this Website.
 1. Free Workout with different  forms of workout 
