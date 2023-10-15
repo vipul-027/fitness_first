@@ -1,6 +1,6 @@
 # Fitness-First
 i am excited to announce that launch of my new project.
-During this covid situation  stay safe.        # click here- https://vipul-027.github.io/fitness_first.io/
+During this covid situation  stay safe.       
 
 # Key Features  of this Website.
 1. Free Workout with different  forms of workout 
@@ -12,3 +12,5 @@ During this covid situation  stay safe.        # click here- https://vipul-027.g
 
 ![image](images/homepage.png)
 ![image](images/chat.png)
+
+# click here- https://vipul-027.github.io/fitness_first.io/
